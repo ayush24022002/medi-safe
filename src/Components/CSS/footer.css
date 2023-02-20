@@ -1,0 +1,40 @@
+.f_main{
+    color: #86003c;
+    background-color: antiquewhite;
+}
+
+ul{
+    /* list-style-type: none; */
+    list-style-type: none;
+}
+.f_list{
+padding-left: 0px;
+margin-bottom: 0ch;
+margin-top: 0ch;
+}
+.f_col{
+    justify-content: left;
+}
+
+.f_row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.f_col-sm{
+    color: #e41f7b;
+    margin: 0;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+/*
+
+#696969
+#ff8ba0
+#e41f7b
+#86003c 
+antiquewhite
+
+
+*/
